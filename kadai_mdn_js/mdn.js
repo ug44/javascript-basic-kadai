@@ -7,5 +7,6 @@ const [year, month, day] = [
     today.getMonth() + 1 + '月',
     today.getDate() + '日',
 ];
+
 // 日付の表示
 console.log(year + month + day);
